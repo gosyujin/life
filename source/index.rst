@@ -11,8 +11,8 @@ Contents:
    master
 
 .. author:: default
-.. categories:: [misc]
-.. tags:: [buy]
+.. categories:: Misc
+.. tags:: none
 
 
 日記をつけていきます
