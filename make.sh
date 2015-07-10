@@ -1,13 +1,17 @@
 #!/bin/sh
 
-make html
-cd build/html
+cp master.rst index.rst
+tinker -b
 
-if [ $1 = "post" ]; then
+if [ $1 = "build" ]; then
   :
 elif [ $1 = "serve" ]; then
-  python -m SimpleHTTPServer
+  cd blog/html
+  python -m SimpleHTTPServer 4000
 elif [ $1 = "deploy" ]; then
+  cd blog/html
+  cp -r blog/html/* _site/
+
   DATE=`date +"%Y/%m/%d %T"`
 
   git add -A
