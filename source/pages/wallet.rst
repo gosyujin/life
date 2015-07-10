@@ -1,17 +1,14 @@
-財布の歴史
-==========
+財布録
+======
 
-Contents:
+.. contents::
+   :depth: 1
+   :local:
 
-.. toctree::
-   :maxdepth: 2
-
-.. author:: default
-.. categories:: Misc
-.. tags:: buy
-
-購入歴史
+薄い財布
 --------
 
-テステス
+腰が痛くて購入
 
+.. author:: 
+.. comments::

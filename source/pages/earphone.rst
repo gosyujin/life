@@ -1,17 +1,21 @@
-イヤホンの歴史
-==============
+イヤホン録
+==========
 
-Contents:
+.. contents::
+   :depth: 1
+   :local:
 
-.. toctree::
-   :maxdepth: 2
+BlueBuds X
+----------
 
-.. author:: default
-.. categories:: Misc
-.. tags:: buy
+Bluetoothイヤホン。現在四代目
 
-購入歴史
---------
+どうも水に弱い(ランニング用なのに)のと、内部でビジー状態になる症状が出るようだ。
 
-テステス
+BlueBuds X 2
+------------
 
+出るみたい。仮
+
+.. author:: 
+.. comments::

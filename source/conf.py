@@ -5,15 +5,11 @@
 import tinkerer
 import tinkerer.paths
 
-# **************************************************************
-# TODO: Edit the lines below
-# **************************************************************
-
 # Change this to the name of your blog
-project = 'My blog'
+project = u'kk_Atakaのらいふろぐ'
 
 # Change this to the tagline of your blog
-tagline = 'Add intelligent tagline here'
+tagline = u'kk_Atakaの日記別館'
 
 # Change this to the description of your blog
 description = 'This is an awesome blog'
@@ -27,18 +23,20 @@ copyright = '2015, ' + author
 # Change this to your blog root URL (required for RSS feed)
 website = 'http://gosyujin.github.io/life/'
 
+language = 'en'
 # **************************************************************
 # More tweaks you can do
 # **************************************************************
 
 # Add your Disqus shortname to enable comments powered by Disqus
-disqus_shortname = None
+disqus_shortname = 'kkataka'
 
 # Change your favicon (new favicon goes in _static directory)
 html_favicon = '_static/tinkerer.ico'
 
 # Pick another Tinkerer theme or use your own
-html_theme = 'dark'
+html_theme = 'tinkerturquoise'
+# modern5
 
 # Theme-specific options, see docs
 html_theme_options = {}
@@ -76,14 +74,13 @@ templates_path = ['_templates']
 html_static_path = ['_static', tinkerer.paths.static]
 
 # Add other theme paths here
-html_theme_path = ['_themes', tinkerer.paths.themes]
-
+html_theme_path = ['_themes', tinkerer.paths.themes, 'sphinxjp.themecore']
 # Add file patterns to exclude from build
 exclude_patterns = ['drafts/*', '_templates/*']
 
 # Add templates to be rendered in sidebar here
 html_sidebars = {
-    '**': ['recent.html', 'searchbox.html']
+    '**': ['recent.html', 'categories.html', 'tags.html', 'searchbox.html']
 }
 
 # Add an index to the HTML documents.
