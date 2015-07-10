@@ -10,10 +10,9 @@ Contents:
    wallet
    master
 
-   .. author:: default
-   .. categories:: [misc]
-   .. tags:: [buy]
-   .. comments::
+.. author:: default
+.. categories:: [misc]
+.. tags:: [buy]
 
 
 日記をつけていきます
