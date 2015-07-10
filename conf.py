@@ -9,7 +9,7 @@ import tinkerer.paths
 project = u'kk_Atakaのらいふろぐ'
 
 # Change this to the tagline of your blog
-tagline = u'kk_Atakaの日記別館'
+tagline = u'kk_Atakaの日記(http://gosyujin.github.io/)別館'
 
 # Change this to the description of your blog
 description = ''
