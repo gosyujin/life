@@ -1,5 +1,5 @@
-Welcome to lifelog's documentation!
-===================================
+kk_Atakaの生活日記
+==================
 
 Contents:
 
@@ -8,6 +8,13 @@ Contents:
 
    earphone
    wallet
+   master
+
+   .. author:: default
+   .. categories:: [misc]
+   .. tags:: [buy]
+   .. comments::
+
 
 日記をつけていきます
 --------------------
