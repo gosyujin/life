@@ -6,6 +6,10 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+.. author:: default
+.. categories:: Misc
+.. tags:: buy
+
 購入歴史
 --------
 

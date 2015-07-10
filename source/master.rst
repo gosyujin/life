@@ -1,7 +1,12 @@
-Sitemap
-=======
+kk_Atakaの生活日記
+==================
+
+.. author:: default
+.. categories:: none
+.. tags:: none
 
 .. toctree::
    :maxdepth: 1
 
-   2015/07/11/testpost
+   pages/earphone
+   pages/wallet
