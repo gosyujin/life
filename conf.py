@@ -9,7 +9,7 @@ import tinkerer.paths
 project = u'kk_Atakaのらいふろぐ'
 
 # Change this to the tagline of your blog
-tagline = u'kk_Atakaの日記別館'
+tagline = u'<a href="http://gosyujin.github.io/">kk_Atakaの日記</a>別館'
 
 # Change this to the description of your blog
 description = 'This is an awesome blog'
@@ -65,7 +65,7 @@ first_page_title = None
 # **************************************************************
 
 # Add other Sphinx extensions here
-extensions = ['tinkerer.ext.blog', 'tinkerer.ext.disqus']
+extensions = ['tinkerer.ext.blog', 'tinkerer.ext.disqus', 'sphinxtogithub']
 
 # Add other template paths here
 templates_path = ['_templates']
