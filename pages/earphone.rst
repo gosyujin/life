@@ -10,10 +10,13 @@ Bluebuds X 初代
 
 :使用期間: 2014/01/31-2015/08
 
+* `AppleのWebサイト`_ で購入した
 * Bluetoothイヤホン
 * レシーバーが小さくて邪魔にならない
 * 音質に関してはよくわからない
 * どうも水に弱い(ランニング用なのに)のと、内部でビジー状態になる症状が出るようだ
+
+.. _AppleのWebサイト: http://store.apple.com/jp/product/HB234VC/A/jaybird-bluebuds-x-bluetooth-%E3%83%98%E3%83%83%E3%83%89%E3%83%95%E3%82%A9%E3%83%B3
 
 故障
 ^^^^
