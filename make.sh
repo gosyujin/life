@@ -10,6 +10,7 @@ elif [ $1 = "serve" ]; then
   cd blog/html
   python -m SimpleHTTPServer 4000
 elif [ $1 = "deploy" ]; then
+  git push origin HEAD
   rm -rf _site/*
   cp -r blog/html/* _site/
   cd _site
