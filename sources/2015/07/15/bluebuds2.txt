@@ -11,6 +11,6 @@ Bluebuds X2がでる模様
 
 
 .. author:: default
-.. categories:: none
-.. tags:: none
+.. categories:: Misc
+.. tags:: イヤホン
 .. comments::
