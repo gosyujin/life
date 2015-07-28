@@ -5,8 +5,8 @@
    :depth: 2
    :local:
 
-Côte&Ciel Rhine Flat Backpack, Dark Gray(2014/01/20-)
------------------------------------------------------
+Côte&Ciel Rhine Flat Backpack (2014/01/20-)
+-------------------------------------------
 
 :使用期間: 2014/01/20-
 :公式サイト: `EvernoteMarket`_
@@ -24,8 +24,8 @@ Côte&Ciel Rhine Flat Backpack, Dark Gray(2014/01/20-)
 .. _EvernoteMarket: https://www.evernote.com/market/feature/backpack-jp?sku=BAGS00102
 .. _`重い鞄の斜めがけで椎間板ダメージ疑惑とバックパックのススメ - Togetterまとめ`: http://togetter.com/li/613904
 
-AYANOKOJI 縦型がま口ボディバッグ(2015/07/26-)
----------------------------------------------
+AYANOKOJI 縦型がま口ボディバッグ (2015/07/26-)
+----------------------------------------------
 
 :使用期間: 2015/07/26-
 :公式サイト: `AYANOKOJI オンラインショップ`_
