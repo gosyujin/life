@@ -13,4 +13,5 @@ kk_Atakaの生活日記
    pages/wallet
    pages/chair
    pages/roomba
+   pages/backpack
    2015/07/11/helloworld
