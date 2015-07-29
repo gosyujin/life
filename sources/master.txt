@@ -8,6 +8,7 @@ kk_Atakaの生活日記
 .. toctree::
    :maxdepth: 1
 
+   2015/07/29/backpack
    2015/07/15/bluebuds2
    pages/earphone
    pages/wallet
