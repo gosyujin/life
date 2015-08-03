@@ -75,11 +75,12 @@ Bluebuds X 三代目 (2015/07/15-)
 * 好きなんだけど壊れやすいのが最大のネック
 
   * 今回から純正の `きしめん`_ で充電してみる(あんまり変わらないと思うけど…)
-.. _きしめん: http://peer2.net/sjdojo/?p=8645
 
-.. _JayBird: http://www.jaybirdsport.com/bluebuds-x-bluetooth-headphones/
-.. _AppleのWebサイト: http://store.apple.com/jp/product/HB234VC/A/jaybird-bluebuds-x-bluetooth-%E3%83%98%E3%83%83%E3%83%89%E3%83%95%E3%82%A9%E3%83%B3
-.. _フォーカルストア: http://www.focal.co.jp/store/products/detail.php?product_id=779
+.. _`きしめん`: http://peer2.net/sjdojo/?p=8645
+
+.. _`JayBird`: http://www.jaybirdsport.com/bluebuds-x-bluetooth-headphones/
+.. _`AppleのWebサイト`: http://store.apple.com/jp/product/HB234VC/A/jaybird-bluebuds-x-bluetooth-%E3%83%98%E3%83%83%E3%83%89%E3%83%95%E3%82%A9%E3%83%B3
+.. _`フォーカルストア`: http://www.focal.co.jp/store/products/detail.php?product_id=779
 
 .. author:: 
 .. comments::
