@@ -13,6 +13,6 @@ kk_Atakaの生活日記
    pages/earphone
    pages/wallet
    pages/chair
-   pages/roomba
+   pages/cleaner
    pages/backpack
    2015/07/11/helloworld
