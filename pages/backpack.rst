@@ -5,6 +5,18 @@
    :depth: 2
    :local:
 
+Karrimor デイパック セクター 25L (2013/07/14-)
+----------------------------------------------
+
+:使用期間: 2013/07/14-
+:公式サイト: `sector 25 | Karrimor Japan`_
+
+* `Amazon`_ で購入
+* 着替えとかいっぱい持ちたいけど、コロコロは嫌だったので背負えそうなギリギリのところをチョイス
+
+.. _`Amazon`: http://www.amazon.co.jp/gp/product/B00CAGHVUY?psc=1&redirect=true&ref_=oh_aui_search_detailpage
+.. _`sector 25 | Karrimor Japan`: http://www.karrimor.jp/products/detail.php?product_id=62
+
 Côte&Ciel Rhine Flat Backpack (2014/01/20-)
 -------------------------------------------
 
