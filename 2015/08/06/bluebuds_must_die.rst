@@ -5,7 +5,7 @@ JayBird Bluebuds Xがまた壊れた(2年連続4回目の故障)
    :depth: 1
    :local:
 
-`Bluebuds X 三代目#故障 <pages/earphone.html#id8>`_ を参照。
+`Bluebuds X 三代目#故障 <http://gosyujin.github.io/life/pages/earphone.html#id8>`_ を参照。
 
 まさか20日でこわれるとは思わなんだ。
 
