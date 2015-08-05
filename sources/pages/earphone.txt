@@ -112,7 +112,7 @@ yurbuds LEAP WIRELESS(2015/08/06-)
 
 * Bluetoothイヤホン一本がすさまじく心細くなってきたので購入してみた
 
-  * `JayBird Bluebuds Xがまた壊れた(2年連続4回目の故障) </2015/08/06/bluebuds_must_die.html>`_
+  * `JayBird Bluebuds Xがまた壊れた(2年連続4回目の故障) <2015/08/06/bluebuds_must_die.html>`_
 
 * 使いづらかったらどちらかをサブにすれば…
 
