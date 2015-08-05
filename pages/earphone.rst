@@ -107,13 +107,14 @@ Bluebuds X 三代目 (2015/07/15-2015/08/06)
 
 yurbuds LEAP WIRELESS(2015/08/06-)
 ----------------------------------
+:使用期間: 2015/07/15-2015/08/06
+:公式サイト: `yurbuds LEAP WIRELESS(リープワイヤレス) | HARMAN公式通販サイト <http://shop.harman-japan.co.jp/products/detail.php?product_id=1294&cref=pc3121115756567>`_
 
 * Bluetoothイヤホン一本がすさまじく心細くなってきたので購入してみた
 
   * `JayBird Bluebuds Xがまた壊れた(2年連続4回目の故障) <2015/08/06/bluebuds_must_die.html>`_
 
 * 使いづらかったらどちらかをサブにすれば…
-
 
 .. _`JayBird`: http://www.jaybirdsport.com/bluebuds-x-bluetooth-headphones/
 
