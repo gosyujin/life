@@ -23,7 +23,7 @@ Beats by Dre Powerbeats2 Wireless
 * `アスリート向けイヤフォン「Powerbeats2 Wireless」レビュー — SCREAMO CREATIVE <http://www.screamo.jp/2014/09/05/09/33/08/>`_
 * `Appleの一員となったBeats ElectronicsがリリースしたPowerbeats2 Wirelessの購入レビュー - 代助のブログ <http://daisukeblog.com/?p=2385>`_
 
-   * 思ったより大きいのと、値段がネック
+  * 思ったより大きいのと、値段がネック
 
 yurbuds LEAP|LIBERTY WIRELESS
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
