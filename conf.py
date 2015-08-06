@@ -23,7 +23,7 @@ copyright = '2015, ' + author
 # Change this to your blog root URL (required for RSS feed)
 website = 'http://gosyujin.github.io/life/'
 
-language = 'en'
+language = 'ja'
 
 # **************************************************************
 # More tweaks you can do
