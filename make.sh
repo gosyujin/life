@@ -6,6 +6,8 @@ tinker -b
 
 if [ $1 = "build" ]; then
   :
+elif [ $1 = "import" ]; then
+  sh ~/github/Dropbox-Uploader/dropbox_uploader.sh download images _static/
 elif [ $1 = "serve" ]; then
   cd blog/html
   python -m SimpleHTTPServer 4000
