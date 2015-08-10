@@ -19,6 +19,11 @@ Ergohuman (2009/05/xx-2014/04/xx)
    * - 購入サイト
      - IDC大塚家具
 
+.. figure:: /_static/images/ergohuman_basic_official.jpg
+   :align: center
+
+   参考画像(公式サイトより、ベーシック版)
+
 * ProとBasicがあるようだけど、どっちにしたか忘れた(そもそも、購入当時はその分類だったのか不明)
 * リクライニングするとアームレストも同期して傾くのがつらかった
 
