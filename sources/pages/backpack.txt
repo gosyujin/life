@@ -5,8 +5,8 @@
    :depth: 2
    :local:
 
-Karrimor デイパック セクター 25L (2013/07/14-)
-----------------------------------------------
+Karrimor デイパック セクター 25L
+--------------------------------
 
 .. list-table::
    :header-rows:  0
@@ -22,8 +22,8 @@ Karrimor デイパック セクター 25L (2013/07/14-)
 * 着替えとかいっぱい持ちたいけど、コロコロは嫌だったので背負えそうなギリギリのところをチョイス
 
 
-Côte&Ciel Rhine Flat Backpack (2014/01/20-)
--------------------------------------------
+Côte&Ciel Rhine Flat Backpack
+-----------------------------
 
 .. list-table::
    :header-rows:  0
@@ -48,8 +48,8 @@ Côte&Ciel Rhine Flat Backpack (2014/01/20-)
 
 .. _EvernoteMarket: https://www.evernote.com/market/feature/backpack-jp?sku=BAGS00102
 
-AYANOKOJI 縦型がま口ボディバッグ (2015/07/26-)
-----------------------------------------------
+AYANOKOJI 縦型がま口ボディバッグ
+--------------------------------
 
 .. list-table::
    :header-rows:  0
