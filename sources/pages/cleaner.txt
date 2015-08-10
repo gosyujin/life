@@ -8,10 +8,18 @@
 ルンバ 770 (2011/10/xx-2015/07/15)
 ----------------------------------
 
-:使用期間: 2011/10/xx-2015/07/15
-:公式サイト: `iRobot`_ `ルンバ770`_
+.. list-table::
+   :header-rows:  0
+   :stub-columns: 1
 
-* いつ買ったか不明だが、 `700シリーズプレスリリース`_ によると2011/10/07に販売開始しているようなので、それ以降か
+   * - 使用期間
+     - 2011/10/xx-2015/07/15
+   * - 公式サイト
+     - `ルンバ770 <https://www.irobot-jp.com/storeproduct/700series/>`_
+   * - 購入サイト
+     - ヨドバシカメラ
+
+* いつ買ったか不明だが、 `700シリーズプレスリリース <https://www.irobot-jp.com/press/pdf/20110914.pdf>`_ によると2011/10/07に販売開始しているようなので、それ以降か
 * 3年ちょいの間にバッテリー交換や付属パーツを買い換えも行った
 
 買い替え
@@ -23,29 +31,38 @@
 Dyson DC61 モーターヘッド ハンディクリーナー(2013/12/31-)
 ---------------------------------------------------------
 
-:使用期間: 2013/12/31-
-:公式サイト: `ダイソン公式`_
+.. list-table::
+   :header-rows:  0
+   :stub-columns: 1
+
+   * - 使用期間
+     - 2013/12/31-
+   * - 公式サイト
+     - `D61 - ダイソン公式 <http://www.dyson.co.jp/dyson-vacuums/handheld/dc61/dc61-motorhead-purple-nickel.aspx>`_
+   * - 購入サイト
+     - ヨドバシカメラ
 
 * ヨドバシで購入
 * ルンバで掃除できないところ(床より上、棚とか机とか。あとルンバ自体)を掃除するのに結局掃除機が必要だった
 * けっこう高音が響く
 
-.. _`ダイソン公式`: http://www.dyson.co.jp/dyson-vacuums/handheld/dc61/dc61-motorhead-purple-nickel.aspx
-
 ルンバ 871 (2015/07/16-)
 ------------------------
 
-:使用期間: 2015/07/16-
-:公式サイト: `iRobot`_ `ルンバ871`_
+.. list-table::
+   :header-rows:  0
+   :stub-columns: 1
+
+   * - 使用期間
+     - 2015/07/16-
+   * - 公式サイト
+     - `ルンバ871 <http://store.irobot-jp.com/item/871.html>`_
+   * - 購入サイト
+     - Amazon
 
 * ルンバ二代目
 * これ自体の発売日は2014年で、既に875/885シリーズが出ていたので結果的に型落ちを購入したことになる
 * バッテリー以外の変更点が見当たらなかった
-
-.. _iRobot: http://www.irobot-jp.com/
-.. _ルンバ770: https://www.irobot-jp.com/storeproduct/700series/
-.. _700シリーズプレスリリース: https://www.irobot-jp.com/press/pdf/20110914.pdf
-.. _ルンバ871: http://store.irobot-jp.com/item/871.html
 
 .. author::
 .. comments::
