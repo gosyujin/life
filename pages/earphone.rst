@@ -19,8 +19,12 @@ Bluebuds X 初代 (2014/01/31-2014/08/xx)
    * - 購入サイト
      - `Apple公式 <http://store.apple.com/jp/product/HB234VC/A/jaybird-bluebuds-x-bluetooth-%E3%83%98%E3%83%83%E3%83%89%E3%83%95%E3%82%A9%E3%83%B3>`_
 
+.. figure:: /_static/images/bluebuds_x_001.jpg
+   :align: center
+
+   レシーバーが小さくて邪魔にならない
+
 * Bluetoothイヤホン
-* レシーバーが小さくて邪魔にならない
 * 音質に関してはよくわからない
 
 壊れた
@@ -64,7 +68,10 @@ Bluebuds X 二代目 (2014/09/11-2015/06/xx)
    * - 購入サイト
      - `BlueBuds X – フォーカルポイント株式会社`_
 
-* 初代の交換品
+.. figure:: /_static/images/bluebuds_x_001.jpg
+   :align: center
+
+   初代の交換品(画像は使い回し)
 
 壊れた
 ^^^^^^
@@ -104,10 +111,12 @@ Bluebuds X 三代目 (2015/07/15-2015/08/06)
    * - 購入サイト
      - `BlueBuds X – フォーカルポイント株式会社`_
 
-* 懲りずに三代目
+.. figure:: /_static/images/bluebuds_x_001.jpg
+   :align: center
 
-  * 好きなんだけど壊れやすいのが最大のネック
+   懲りずに三代目(画像は使い回し)
 
+* 好きなんだけど壊れやすいのが最大のネック
 * 保証期間が過ぎたためフォーカルポイントから購入
 * 今回から純正の `きしめん <http://peer2.net/sjdojo/?p=8645>`_ で充電してみる(あんまり変わらないと思うけど…)
 
@@ -184,7 +193,11 @@ Bluebuds X 四代目 (2015/08/08-)
    * - 購入サイト
      - `BlueBuds X – フォーカルポイント株式会社`_
 
-* 三代目の初期不良対応
+.. figure:: /_static/images/bluebuds_x_001.jpg
+   :align: center
+
+   三代目の初期不良対応(画像はry)
+
 * 今度はLEAP WIRELESSと並行稼動させていくつもりだから動かない日があっても凌げそう
 
 .. _`JayBird`: http://www.jaybirdsport.com/bluebuds-x-bluetooth-headphones/

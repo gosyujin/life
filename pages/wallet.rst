@@ -21,6 +21,17 @@ abrAsus 薄い財布 (2015/06/20-)
 
 * 財布をケツポッケしてると腰痛がひどくなってきて、ダメ元で「腰痛対策 薄い財布」とかでググって見つけた
 * 製品名がググって下さいと言わんばかりの直球さ
+
+.. figure:: /_static/images/abrasus_wallet_001.jpg
+   :align: center
+
+   横から見た図、薄い
+
+.. figure:: /_static/images/abrasus_wallet_002.jpg
+   :align: center
+
+   中身
+
 * カードは5枚くらいしか入らないし、2枚とかだとすっぽぬけそう
 
   * 身分証明系(免許証、保険証)、交通系(Suica、PASMO)、プラス1, 2枚？
