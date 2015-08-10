@@ -5,8 +5,8 @@
    :depth: 2
    :local:
 
-Ergohuman (2009/05/xx-2014/04/xx)
----------------------------------
+Ergohuman
+---------
 
 .. list-table::
    :header-rows:  0
@@ -32,8 +32,8 @@ Ergohuman (2009/05/xx-2014/04/xx)
 
 * 高さを調節するバーのネジが飛んだり、色々あって体力の限界
 
-DUOREST (2014/04/xx-)
----------------------
+DUOREST
+-------
 
 .. list-table::
    :header-rows:  0

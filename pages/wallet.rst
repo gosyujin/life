@@ -5,8 +5,43 @@
    :depth: 2
    :local:
 
-abrAsus 薄い財布 (2015/06/20-)
-------------------------------
+TAKEO KIKUCHIの財布
+-------------------
+
+.. list-table::
+   :header-rows:  0
+   :stub-columns: 1
+
+   * - 使用期間
+     - 2009/04/xx-2012/05/xx
+   * - 公式サイト
+     - `タケオキクチ 財布 | TAKEO KIKUCHI 公式通販 <http://store.world.co.jp/s/takeokikuchi/search?it=24030006&try>`_
+   * - 購入サイト
+     - 忘れた
+
+* 2つ折りの財布だった
+* 海外に行った際に外貨入れに使って、そのまま…
+
+Dakotaの財布
+------------
+
+.. list-table::
+   :header-rows:  0
+   :stub-columns: 1
+
+   * - 使用期間
+     - 2012/05/xx-2015/06/20
+   * - 公式サイト
+     - `Dakota 公式Web Site <http://www.dakota-princessbag.com/>`_
+   * - 購入サイト
+     - 忘れた
+
+* これも2つ折り
+* これと無印でかったキーケース(小銭入れ)を併用して使ってたんだけど、かさばるわ腰痛いわで引退
+* もの自体は悪くないんだけどー
+
+abrAsus 薄い財布
+----------------
 
 .. list-table::
    :header-rows:  0
