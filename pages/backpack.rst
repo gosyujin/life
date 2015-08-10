@@ -8,24 +8,37 @@
 Karrimor デイパック セクター 25L (2013/07/14-)
 ----------------------------------------------
 
-:使用期間: 2013/07/14-
-:公式サイト: `sector 25 | Karrimor Japan`_
+.. list-table::
+   :header-rows:  0
+   :stub-columns: 1
 
-* `Amazon`_ で購入
+   * - 使用期間
+     - 2013/07/14-
+   * - 公式サイト
+     - `sector 25 | Karrimor Japan <http://www.karrimor.jp/products/detail.php?product_id=62>`_
+   * - 購入サイト
+     - `Amazon <http://www.amazon.co.jp/gp/product/B00CAGHVUY?psc=1&redirect=true&ref_=oh_aui_search_detailpage>`_
+
 * 着替えとかいっぱい持ちたいけど、コロコロは嫌だったので背負えそうなギリギリのところをチョイス
 
-.. _`Amazon`: http://www.amazon.co.jp/gp/product/B00CAGHVUY?psc=1&redirect=true&ref_=oh_aui_search_detailpage
-.. _`sector 25 | Karrimor Japan`: http://www.karrimor.jp/products/detail.php?product_id=62
 
 Côte&Ciel Rhine Flat Backpack (2014/01/20-)
 -------------------------------------------
 
-:使用期間: 2014/01/20-
-:公式サイト: `EvernoteMarket`_
+.. list-table::
+   :header-rows:  0
+   :stub-columns: 1
+
+   * - 使用期間
+     - 2014/01/20-
+   * - 公式サイト
+     - `EvernoteMarket`_
+   * - 購入サイト
+     - `EvernoteMarket`_
 
 * 2014年の1月頃にこんな話題もあった
 
-  * `重い鞄の斜めがけで椎間板ダメージ疑惑とバックパックのススメ - Togetterまとめ`_
+  * `重い鞄の斜めがけで椎間板ダメージ疑惑とバックパックのススメ - Togetterまとめ <http://togetter.com/li/613904>`_
 
 * いわゆるリュックサックじゃなくてPCを入れる部屋がある(かつ、ちょっと保護されてるくらいの部屋)バックパックが欲しいなーと思って購入
 * それまではワンショルダーのビジネスバッグ的なものを使っていて、歩くのもしんどかったので劇的に改善した
@@ -34,31 +47,32 @@ Côte&Ciel Rhine Flat Backpack (2014/01/20-)
 * 自立させるのがちょっとめんどい
 
 .. _EvernoteMarket: https://www.evernote.com/market/feature/backpack-jp?sku=BAGS00102
-.. _`重い鞄の斜めがけで椎間板ダメージ疑惑とバックパックのススメ - Togetterまとめ`: http://togetter.com/li/613904
 
 AYANOKOJI 縦型がま口ボディバッグ (2015/07/26-)
 ----------------------------------------------
 
-:使用期間: 2015/07/26-
-:公式サイト: `AYANOKOJI オンラインショップ`_
+.. list-table::
+   :header-rows:  0
+   :stub-columns: 1
+
+   * - 使用期間
+     - 2015/07/26-
+   * - 公式サイト
+     - `AYANOKOJI オンラインショップ <http://ayanokoji-onlineshop.jp/category/459.html>`_
+   * - 購入サイト
+     - `Ayanokoji Tokyo Labo., – あやの小路東京ラボ | AYANOKOJI - あやの小路 <http://ayanokoji.jp/shop-list/ayanokoji-tokyo-labo/>`_
 
 * 普段使い用にはRhine Flat Backpackで事足りてるんだけど、PC(MacBook Airの11型)だけ持って移動したいと思った
-* そんな時にこの鞄を見つける。寸法は以下のとおり
+* MacBook Air 11型が奇跡的にすっぽり入る。やったね
+* あとは以下のものを入れても、ギリギリ大丈夫かな
 
-:外寸: 高さ33.8cm、幅（最大）24cm、マチ7cm
-:内寸: 高さ31.5cm、幅（最大）17.5cm
+  * MacBookの電源
+  * iPad mini
+  * モバイル充電器
+  * モバイルWi-Fi
 
-* MacBook Airの11のサイズはこんなもん
-
-:高さ: 0.3～1.7cm
-:幅: 30cm
-:奥行き: 19.2cm
-
-* 奇跡的にすっぽり入る。やったね
 * がま口にこだわりのある会社のようで、がま口がついているので、ここに電源とか入れられて便利
 * オーダーメイドとかにも対応してくれる模様
-
-.. _`AYANOKOJI オンラインショップ`: http://ayanokoji-onlineshop.jp/category/459.html
 
 .. author:: 
 .. comments::
