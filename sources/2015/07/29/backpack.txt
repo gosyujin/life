@@ -11,7 +11,7 @@
 
 11型ならピッタリ入るが、それ以上のサイズになると厳しそう。
 
-詳しくは `バックパック録 - AYANOKOJI 縦型がま口ボディバッグ <http://gosyujin.github.io/life/pages/backpack.html#ayanokoji>`_ で。
+詳しくは `バックパック録 - AYANOKOJI 縦型がま口ボディバッグ </pages/backpack.html#ayanokoji>`_ で。
 
 .. _`縦型がま口ボディバッグ 発売！ | AYANOKOJI - あやの小路`: http://ayanokoji.jp/new-item/3146/
 
