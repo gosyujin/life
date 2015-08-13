@@ -166,7 +166,7 @@ yurbuds LEAP WIRELESS
 
 * Bluetoothイヤホン一本がすさまじく心細くなってきたので購入してみた
 
-  * :doc:`/2015/08/06/bluebuds_must_die`
+  * `JayBird Bluebuds Xがまた壊れた(2年連続4回目の故障) <http://gosyujin.github.io/life/2015/08/06/bluebuds_must_die>`_
 
 * 数日使った雑感としては、「どうも安定してハマっているように感じないが、動いても落ちない」
 * ハマり心地はあまり良くないんだけど、全然落ちない。意外と悪くないのかも
