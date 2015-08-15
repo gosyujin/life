@@ -1,9 +1,12 @@
-JayBird Bluebuds Xがまた壊れた(2年連続4回目の故障)
-==================================================
+JayBird BlueBuds Xがまた壊れた
+==============================
 
 .. contents::
    :depth: 1
    :local:
+
+壊れた(2年連続4回目の故障)
+--------------------------
 
 `イヤホン録 - Bluebuds X 三代目#故障 <http://gosyujin.github.io/life/pages/earphone.html#id9>`_ を参照。
 
