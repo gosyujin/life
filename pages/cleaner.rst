@@ -52,7 +52,7 @@ Dyson DC61 モーターヘッド ハンディクリーナー
    :stub-columns: 1
 
    * - 使用期間
-     - 2013/12/31-
+     - 2013/12/30-
    * - 公式サイト
      - `D61 - ダイソン公式 <http://www.dyson.co.jp/dyson-vacuums/handheld/dc61/dc61-motorhead-purple-nickel.aspx>`_
    * - 購入サイト
