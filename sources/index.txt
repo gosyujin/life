@@ -16,5 +16,6 @@ kk_Atakaの生活日記
    pages/chair
    pages/cleaner
    pages/backpack
+   pages/cover
    2015/07/11/helloworld
    master

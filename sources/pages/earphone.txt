@@ -5,8 +5,8 @@
    :depth: 2
    :local:
 
-Bluebuds X 初代
----------------
+Jaybird BlueBuds X 初代
+-----------------------
 
 .. list-table::
    :header-rows:  0
@@ -54,8 +54,8 @@ Bluebuds X 初代
 
 * (条件によると思うけど)今回は元払い
 
-Bluebuds X 二代目
------------------
+Jaybird BlueBuds X 二代目
+-------------------------
 
 .. list-table::
    :header-rows:  0
@@ -97,8 +97,8 @@ Bluebuds X 二代目
 * 初代の時と同様
 * 現物を送付後、フォーカルストアより再購入して下さいとの連絡をもらう
 
-Bluebuds X 三代目
------------------
+Jaybird BlueBuds X 三代目
+-------------------------
 
 .. list-table::
    :header-rows:  0
@@ -179,8 +179,8 @@ yurbuds LEAP WIRELESS
 
 * 連続使用時間は6時間。BlueBuds Xが8時間なので、どのくらい変わるか
 
-Bluebuds X 四代目
------------------
+Jaybird BlueBuds X 四代目
+-------------------------
 
 .. list-table::
    :header-rows:  0
