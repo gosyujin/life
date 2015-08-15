@@ -16,5 +16,5 @@ kk_Atakaの生活日記
    pages/wallet
    pages/cleaner
    pages/earphone
-   pages/cover
+   pages/battery
    pages/backpack
