@@ -5,6 +5,26 @@
    :depth: 2
    :local:
 
+DENON AH-W200EM GLOBE CRUISER
+-----------------------------
+
+.. list-table::
+   :header-rows:  0
+   :stub-columns: 1
+
+   * - 使用期間
+     - xxxx/xx/xx-xxxx/xx/xx
+   * - 公式サイト
+     - `DENON AH-W200 <http://www.denon.jp/jp/product/headphones/wireless/ahw200>`_
+   * - 購入サイト
+     - 忘れた
+
+* 恐らく一番初めに買ったBluetoothイヤホン
+* 耳の部分を調節できるスライダーがすぐ断線寸前になって使わなくなった
+* オーディオケーブルで端末とつなげば有線でも使える(バッテリー切れてもOK)のは良いと思った
+
+  * そのためのケーブルを持ち歩くと、本末転倒かもしれないが
+
 Jaybird BlueBuds X 初代
 -----------------------
 
