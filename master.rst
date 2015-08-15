@@ -11,10 +11,10 @@ kk_Atakaの生活日記
    2015/08/06/bluebuds_must_die
    2015/07/29/backpack
    2015/07/15/bluebuds2
-   pages/earphone
-   pages/wallet
-   pages/chair
-   pages/cleaner
-   pages/backpack
-   pages/cover
    2015/07/11/helloworld
+   pages/chair
+   pages/wallet
+   pages/cleaner
+   pages/earphone
+   pages/cover
+   pages/backpack

@@ -1,7 +1,5 @@
 #!/bin/sh
 
-cp master.rst index.rst
-echo '   master' >> index.rst
 tinker -b
 
 if [ $1 = "build" ]; then
