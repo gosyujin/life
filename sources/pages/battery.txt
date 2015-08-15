@@ -151,23 +151,6 @@ mophie Juice Pack Helium for iPhone 5S/5 1500mAh
 
 * `mophie juice pack H2PRO for iPhone 6 <http://www.focal.co.jp/products/detail.php?product_id=1079>`_
 
-HyperJuice2 27000mAh
---------------------
-
-.. list-table::
-   :header-rows:  0
-   :stub-columns: 1
-
-   * - 使用期間
-     - 2015/01/18-
-   * - 公式サイト
-     - `HyperJuice / HyperDrive iUSBport <http://www.act2.com/brands/hyperjuice/>`_
-   * - 購入サイト
-     - ヨドバシカメラ
-
-* 使用中のMacBook Airのバッテリーが2時間持つか持たないかになってしまい、PCを新調するか外部バッテリーを使ってみるかどちらにしようか迷ってバッテリーにしてみた
-* MBAへの充電にはC28 Z6ケーブルを通して行っている。今のところ、不具合なく充電できている
-
 Anker Astro M3 13000mAh
 -----------------------
 
@@ -185,6 +168,23 @@ Anker Astro M3 13000mAh
 * ハイパワー電源アダプタが付属したAmazon限定セットというものだった
 * 屋外でモバイルWi-Fiやスマホの充電をしたい時に鞄に入れてる
 * 意外とでかい
+
+HyperJuice2 27000mAh
+--------------------
+
+.. list-table::
+   :header-rows:  0
+   :stub-columns: 1
+
+   * - 使用期間
+     - 2015/01/18-
+   * - 公式サイト
+     - `HyperJuice / HyperDrive iUSBport <http://www.act2.com/brands/hyperjuice/>`_
+   * - 購入サイト
+     - ヨドバシカメラ
+
+* 使用中のMacBook Airのバッテリーが2時間持つか持たないかになってしまい、PCを新調するか外部バッテリーを使ってみるかどちらにしようか迷ってバッテリーにしてみた
+* MBAへの充電にはC28 Z6ケーブルを通して行っている。今のところ、不具合なく充電できている
 
 Anker Astro Mini 第2世代 3350mAh
 --------------------------------
