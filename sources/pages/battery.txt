@@ -44,6 +44,10 @@ mophie Juice Pack Air for iPhone 3G 1200mAh
 ^^^^^^^^^^^^
 
 * 裸のiPhoneと使用感が全く変わらないのが良かった。後継機はドンドン改悪されていく…
+
+買い替え
+^^^^^^^^
+
 * iPhone 4に乗り換えたため、お役御免
 
 mophie Juice Pack Air for iPhone 4S/4 1500mAh
@@ -93,6 +97,9 @@ mophie Juice Pack Air for iPhone 4S/4 1500mAh
 
   * なんで背面から変えた？
   * 充電時にこのランプが点滅するので、 **寝てる時常に照らされる** 。立てかけておけと？
+
+買い替え
+^^^^^^^^
 
 * iPhone 5に乗り換えたため、お役御免
 
