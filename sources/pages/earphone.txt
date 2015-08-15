@@ -19,10 +19,20 @@ Jaybird BlueBuds X 初代
    * - 購入サイト
      - `Apple公式 <http://store.apple.com/jp/product/HB234VC/A/jaybird-bluebuds-x-bluetooth-%E3%83%98%E3%83%83%E3%83%89%E3%83%95%E3%82%A9%E3%83%B3>`_
 
-.. figure:: /_static/images/bluebuds_x_001.jpg
+.. figure:: /_static/images/jaybird_bluebuds_x_001.jpg
+   :align: center
+
+   全体
+
+.. figure:: /_static/images/jaybird_bluebuds_x_002.jpg
    :align: center
 
    レシーバーが小さくて邪魔にならない
+
+.. figure:: /_static/images/jaybird_bluebuds_x_003.jpg
+   :align: center
+
+   ケーブルはきしめん状
 
 * Bluetoothイヤホン
 * 音質に関してはよくわからない
@@ -68,11 +78,6 @@ Jaybird BlueBuds X 二代目
    * - 購入サイト
      - `BlueBuds X – フォーカルポイント株式会社`_
 
-.. figure:: /_static/images/bluebuds_x_001.jpg
-   :align: center
-
-   初代の交換品(画像は使い回し)
-
 壊れた
 ^^^^^^
 
@@ -110,11 +115,6 @@ Jaybird BlueBuds X 三代目
      - `JayBird`_
    * - 購入サイト
      - `BlueBuds X – フォーカルポイント株式会社`_
-
-.. figure:: /_static/images/bluebuds_x_001.jpg
-   :align: center
-
-   懲りずに三代目(画像は使い回し)
 
 * 好きなんだけど壊れやすいのが最大のネック
 * 保証期間が過ぎたためフォーカルポイントから購入
@@ -164,6 +164,21 @@ yurbuds LEAP WIRELESS
    * - 購入サイト
      - ヨドバシカメラ
 
+.. figure:: /_static/images/yurbuds_leap_wireless_001.jpg
+   :align: center
+
+   全体
+
+.. figure:: /_static/images/yurbuds_leap_wireless_002.jpg
+   :align: center
+
+   レシーバーはBlueBudsと同じ位？
+
+.. figure:: /_static/images/yurbuds_leap_wireless_003.jpg
+   :align: center
+
+   ケーブルは太め
+
 * Bluetoothイヤホン一本がすさまじく心細くなってきたので購入してみた
 
   * `JayBird Bluebuds Xがまた壊れた(2年連続4回目の故障) <http://gosyujin.github.io/life/2015/08/06/bluebuds_must_die>`_
@@ -179,6 +194,14 @@ yurbuds LEAP WIRELESS
 
 * 連続使用時間は6時間。BlueBuds Xが8時間なので、どのくらい変わるか
 
+BlueBuds Xとの比較
+^^^^^^^^^^^^^^^^^^
+
+.. figure:: /_static/images/compare_bluebuds_x_to_leap_wireless_001.jpg
+   :align: center
+
+   比較、やっぱり大きいか
+
 Jaybird BlueBuds X 四代目
 -------------------------
 
@@ -192,11 +215,6 @@ Jaybird BlueBuds X 四代目
      - `JayBird`_
    * - 購入サイト
      - `BlueBuds X – フォーカルポイント株式会社`_
-
-.. figure:: /_static/images/bluebuds_x_001.jpg
-   :align: center
-
-   三代目の初期不良対応(画像はry)
 
 * 今度はLEAP WIRELESSと並行稼動させていくつもりだから動かない日があっても凌げそう
 
