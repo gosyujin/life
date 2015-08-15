@@ -40,6 +40,16 @@ Dakotaの財布
 * これと無印でかったキーケース(小銭入れ)を併用して使ってたんだけど、かさばるわ腰痛いわで引退
 * もの自体は悪くないんだけどー
 
+.. figure:: /_static/images/dakota_wallet_001.jpg
+   :align: center
+
+   何も入っていない状態
+
+.. figure:: /_static/images/dakota_wallet_002.jpg
+   :align: center
+
+   カードも小銭もたくさん入る…がその分分厚く
+
 abrAsus 薄い財布
 ----------------
 
@@ -67,11 +77,24 @@ abrAsus 薄い財布
 
    中身
 
+.. figure:: /_static/images/abrasus_wallet_003.jpg
+   :align: center
+
+   小銭が入っているところ
+
 * カードは5枚くらいしか入らないし、2枚とかだとすっぽぬけそう
 
   * 身分証明系(免許証、保険証)、交通系(Suica、PASMO)、プラス1, 2枚？
 
 * 小銭は探しやすい…が、レジでお釣りもらった時にしまうのが致命的にめんどい
+
+普通の2つ折り財布との比較
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. figure:: /_static/images/compare_dakota_to_abrasus_001.jpg
+   :align: center
+
+   両方とも空の状態
 
 .. author:: 
 .. comments::

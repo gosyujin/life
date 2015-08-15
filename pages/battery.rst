@@ -21,6 +21,11 @@ mophie Juice Pack Air for iPhone 3G 1200mAh
 
 バッテリーケースはJuice Pack一筋だけど、今にして思えば一番いい感じだったのが3GSで使っていたこれ。
 
+.. figure:: /_static/images/mophie_juice_pack_air_for_iphone3_001.jpg
+   :align: center
+
+   公式サイトより、充電口、スイッチ、ランプ
+
 充電口、スイッチ場所
 ^^^^^^^^^^^^^^^^^^^^
 
@@ -34,11 +39,6 @@ mophie Juice Pack Air for iPhone 3G 1200mAh
      - 下部
    * - 容量確認ランプ/スイッチ
      - 背面
-
-.. figure:: /_static/images/mophie_juice_pack_air_for_iphone3_001.jpg
-   :align: center
-
-   公式サイトより、充電口、スイッチ、ランプ
 
 良い点悪い点
 ^^^^^^^^^^^^
@@ -62,6 +62,11 @@ mophie Juice Pack Air for iPhone 4S/4 1500mAh
 
 4S/4用のもの。本体の変化にあわせてか、こちらも形状を大きく変更し **使いづらくなった** 。
 
+.. figure:: /_static/images/mophie_juice_pack_air_for_iphone4_001.jpg
+   :align: center
+
+   公式サイトより、スイッチ、ランプ(充電口は反対側についている)
+
 充電口、スイッチ場所
 ^^^^^^^^^^^^^^^^^^^^
 
@@ -75,11 +80,6 @@ mophie Juice Pack Air for iPhone 4S/4 1500mAh
      - 左側面下部
    * - 容量確認ランプ/スイッチ
      - 下部
-
-.. figure:: /_static/images/mophie_juice_pack_air_for_iphone4_001.jpg
-   :align: center
-
-   公式サイトより、スイッチ、ランプ(充電口は反対側についている)
 
 良い点悪い点
 ^^^^^^^^^^^^
@@ -169,6 +169,16 @@ Anker Astro M3 13000mAh
 * 屋外でモバイルWi-Fiやスマホの充電をしたい時に鞄に入れてる
 * 意外とでかい
 
+.. figure:: /_static/images/anker_astro_m3_001.jpg
+   :align: center
+
+   全体
+
+.. figure:: /_static/images/anker_astro_m3_002.jpg
+   :align: center
+
+   ポート部分
+
 HyperJuice2 27000mAh
 --------------------
 
@@ -202,6 +212,16 @@ Anker Astro Mini 第2世代 3350mAh
 
 * 上記のAstro M3が意外とでかかったので購入
 * 一応、常時使い用になるのかな
+
+.. figure:: /_static/images/anker_astro_mini_001.jpg
+   :align: center
+
+   全体
+
+.. figure:: /_static/images/anker_astro_mini_002.jpg
+   :align: center
+
+   ポート部分
 
 .. author:: 
 .. comments::
