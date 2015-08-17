@@ -21,6 +21,10 @@ Karrimor デイパック セクター 25L
 
 * 着替えとかいっぱい持ちたいけど、コロコロは嫌だったので背負えそうなギリギリのところをチョイス
 
+.. figure:: /_static/images/karrimor_sector_001.jpg
+   :align: center
+
+   公式サイトより
 
 Côte&Ciel Rhine Flat Backpack
 -----------------------------
@@ -35,6 +39,11 @@ Côte&Ciel Rhine Flat Backpack
      - `EvernoteMarket`_
    * - 購入サイト
      - `EvernoteMarket`_
+
+.. figure:: /_static/images/cote_ciel_rhine_flat_backpack_001.jpg
+   :align: center
+
+   公式サイトより
 
 * 2014年の1月頃にこんな話題もあった
 
@@ -62,6 +71,11 @@ AYANOKOJI 縦型がま口ボディバッグ
    * - 購入サイト
      - `Ayanokoji Tokyo Labo., – あやの小路東京ラボ | AYANOKOJI - あやの小路 <http://ayanokoji.jp/shop-list/ayanokoji-tokyo-labo/>`_
 
+.. figure:: /_static/images/ayanokoji_bodybag_tate_001.jpg
+   :align: center
+
+   公式サイトより
+
 * 普段使い用にはRhine Flat Backpackで事足りてるんだけど、PC(MacBook Airの11型)だけ持って移動したいと思った
 * MacBook Air 11型が奇跡的にすっぽり入る。やったね
 * あとは以下のものを入れても、ギリギリ大丈夫かな
@@ -73,6 +87,19 @@ AYANOKOJI 縦型がま口ボディバッグ
 
 * がま口にこだわりのある会社のようで、がま口がついているので、ここに電源とか入れられて便利
 * オーダーメイドとかにも対応してくれる模様
+* 汗に弱い？ちょっと移動するだけで汗で変色してしまう(夏場)
+
+.. figure:: /_static/images/ayanokoji_bodybag_tate_002.jpg
+   :align: center
+
+   購入したもの
+
+* 説明書に最初に防水スプレーかけてくださいって書いてあった
+
+.. figure:: /_static/images/ayanokoji_bodybag_tate_003.jpg
+   :align: center
+
+   説明書
 
 .. author:: 
 .. comments::
