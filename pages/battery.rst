@@ -171,6 +171,26 @@ mophie Juice Pack Helium for iPhone 5S/5 1500mAh
 
 * `mophie juice pack H2PRO for iPhone 6 <http://www.focal.co.jp/products/detail.php?product_id=1079>`_
 
+Anker ウルトラスリムバッテリーケース iPhone6 2850mAh
+----------------------------------------------------
+
+.. list-table::
+   :header-rows:  0
+   :stub-columns: 1
+
+   * - 使用期間
+     - 2015/10/10-
+   * - 公式サイト
+     - `ANKER ウルトラスリムバッテリーケース <http://jp.ianker.com/products/A1405011>`_
+   * - 購入サイト
+     - Amazon
+
+* これが2850mAh/86gに対してJuice Pack Air for iPhoneは2750mAh/100gだったので、今回からAnkerにしてみた
+
+  * これでもiPhone6sに装着するとかなり重い
+
+* 滑りにくいという口コミが多いけど、するする滑るぞこれ
+
 Anker Astro M3 13000mAh
 -----------------------
 
@@ -199,23 +219,6 @@ Anker Astro M3 13000mAh
 
    ポート部分
 
-HyperJuice2 27000mAh
---------------------
-
-.. list-table::
-   :header-rows:  0
-   :stub-columns: 1
-
-   * - 使用期間
-     - 2015/01/18-
-   * - 公式サイト
-     - `HyperJuice / HyperDrive iUSBport <http://www.act2.com/brands/hyperjuice/>`_
-   * - 購入サイト
-     - ヨドバシカメラ
-
-* 使用中のMacBook Airのバッテリーが2時間持つか持たないかになってしまい、PCを新調するか外部バッテリーを使ってみるかどちらにしようか迷ってバッテリーにしてみた
-* MBAへの充電にはC28 Z6ケーブルを通して行っている。今のところ、不具合なく充電できている
-
 Anker Astro Mini 第2世代 3350mAh
 --------------------------------
 
@@ -242,6 +245,56 @@ Anker Astro Mini 第2世代 3350mAh
    :align: center
 
    ポート部分
+
+Anker PowerCore 10400mAh
+------------------------
+
+.. list-table::
+   :header-rows:  0
+   :stub-columns: 1
+
+   * - 使用期間
+     - 2015/08/15-
+   * - 公式サイト
+     - `ANKER PowerCore 10400 <http://jp.ianker.com/products/A1214011>`_
+   * - 購入サイト
+     - Amazon
+
+* 「VoltageBoostテクノロジーがケーブル内の抵抗を認識し、出力電圧を自動調整することで、ケーブル毎に最適な速度で充電が可能です」ということで、デバイスごとにUSBポートを選ばなくなって便利
+
+cheero Power Plus DANBOARD version -mini- 6000mAh
+-------------------------------------------------
+
+.. list-table::
+   :header-rows:  0
+   :stub-columns: 1
+
+   * - 使用期間
+     - 2015/10/11-
+   * - 公式サイト
+     - `cheero Power Plus DANBOARD version -mini- | cheero <http://www.cheero.net/products/powerplusdanbomini/>`_
+   * - 購入サイト
+     - Amazon
+
+* これ以上バッテリー増やしてどーすんだと思いつつ、タイムセールにつられて買ってしまった
+* 完全に観賞用
+
+HyperJuice2 27000mAh
+--------------------
+
+.. list-table::
+   :header-rows:  0
+   :stub-columns: 1
+
+   * - 使用期間
+     - 2015/01/18-
+   * - 公式サイト
+     - `HyperJuice / HyperDrive iUSBport <http://www.act2.com/brands/hyperjuice/>`_
+   * - 購入サイト
+     - ヨドバシカメラ
+
+* 使用中のMacBook Airのバッテリーが2時間持つか持たないかになってしまい、PCを新調するか外部バッテリーを使ってみるかどちらにしようか迷ってバッテリーにしてみた
+* MBAへの充電にはC28 Z6ケーブルを通して行っている。今のところ、不具合なく充電できている
 
 .. author:: 
 .. comments::
