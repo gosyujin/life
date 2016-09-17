@@ -16,6 +16,7 @@ elif [ $1 = "deploy" ]; then
   git commit -m 'Update source'
   git push origin master
 elif [ $1 = "circle" ]; then
+  pip install sphinx_rtd_theme
   make clean
   make html
   git clone -b gh-pages git@github.com:gosyujin/life.git ~/gh-pages
