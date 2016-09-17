@@ -211,7 +211,7 @@ yurbuds LEAP WIRELESS
 .. figure:: /_static/images/yurbuds_leap_wireless_003.jpg
    :align: center
 
-   ケーブルは太め
+   ケーブルは太め。汗をめちゃ吸うので、汗かきには不向き
 
 * Bluetoothイヤホン一本がすさまじく心細くなってきたので購入してみた
 
@@ -225,6 +225,9 @@ yurbuds LEAP WIRELESS
 * ただ、耳元がシリコン製でできているため、放ったらかしておくと(オフィスとか、意外と埃舞うし)埃がすごそう
 
   * 定期的にメンテナンスしてやる必要があるかもしれない
+
+    * 埃よりも、シリコン製のところがちぎれてすぐすっぽ抜けるようになった(2016/09/17)
+    * (使いっぱなしじゃないけど)だいたい1年位でちぎれはじめる模様
 
 * 連続使用時間は6時間。BlueBuds Xが8時間なので、どのくらい変わるか
 
@@ -244,7 +247,7 @@ Jaybird BlueBuds X 四代目
    :stub-columns: 1
 
    * - 使用期間
-     - 2015/08/08-
+     - 2015/08/08-2016/09/17
    * - 公式サイト
      - `JayBird`_
    * - 購入サイト
@@ -256,3 +259,25 @@ Jaybird BlueBuds X 四代目
 .. _`BlueBuds X – フォーカルポイント株式会社` : http://www.focal.co.jp/jaybird/bluebuds-x/
 .. _`国内でのサポートはフォーカルポイント株式会社`: https://support.focal.co.jp/hc/ja/categories/200223490-JayBird
 
+壊れた
+^^^^^^
+
+* また充電はされるが電源がONにならなくなった
+* もうこの系列買わない
+
+Anker SoundBuds Sport IE20
+--------------------------
+
+.. list-table::
+   :header-rows:  0
+   :stub-columns: 1
+
+   * - 使用期間
+     - 2016/09/15-xxxx/xx/xx
+   * - 公式サイト
+     - `Anker <https://jp.anker.com/products/A3230011>`_
+   * - 購入サイト
+     - Amazon
+
+* Anker製のものにチャレンジ
+* マグネットでイヤホンをくっつけると電源OFFになるのは良い
